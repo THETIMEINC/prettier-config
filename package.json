@@ -1,5 +1,5 @@
 {
-  "name": "@THETIMEINC/prettier-config",
+  "name": "@thetime/prettier-config",
   "version": "1.0.0",
   "description": "Prettier config of THETIME.",
   "main": "index.json",

@@ -1,13 +1,13 @@
 # `@THETIMEINC/prettier-config`
 
-> My personal [Prettier](https://prettier.io) config.
+> [Sharing configurations](https://prettier.io/docs/en/configuration.html#sharing-configurations).
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ yarn add --dev @THETIMEINC/prettier-config
+$ yarn add --dev @thetime/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ $ yarn add --dev @THETIMEINC/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@THETIMEINC/prettier-config"
+  "prettier": "@thetime/prettier-config"
 }
 ```
