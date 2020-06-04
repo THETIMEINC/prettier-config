@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @thetime/prettier-config
+$ npm i -d @thetime/prettier-config
 ```
 
 **Edit `package.json`**:
