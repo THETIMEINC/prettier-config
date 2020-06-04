@@ -1,0 +1,9 @@
+{
+  "name": "@THETIMEINC/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config of THETIME.",
+  "main": "index.json",
+  "repository": "git@github.com:THETIMEINC/prettier-config.git",
+  "author": "hiro kasukawa <kasukawa@thetime.co.jp>",
+  "license": "MIT"
+}
